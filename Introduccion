@@ -1,0 +1,88 @@
+<html>
+<head>
+    <meta charset="utf-8">
+        <link rel="stylesheet" href="estilos.css">
+                  <link rel="stylesheet" href="font.css">
+  <link rel="stylesheet" href="main.css">
+        <script src="http://code.jquery.com/jquery-letest.js"></script>
+        <script src="header.js"></script>
+    <title>Pagina Unad Trabajo</title>
+</head>
+<body>
+<header>
+    <div class='wrapper'>
+        <div class="logo"><a href="index.html">INICIO</a></div>
+            <nav>
+                <a href="Introduccion.html">INTRODUCCIÓN</a>
+                <a href="HTML5.html">HTML5</a>
+                <a href="css3.html">CSS3</a>
+                <a href="github.html">GITHUB</a>
+                <a href="LenguajesPRO.html">LENGUAJES</a>
+            </nav>
+    </div>
+</header>
+ <div class="social-bar">
+    <a href="https://www.facebook.com/unad.florencia" class="icon icon-facebook" target="_blank"></a>
+    <a href="https://twitter.com/universidadunad?lang=es" class="icon icon-twitter" target="_blank"></a>
+    <a href="https://www.youtube.com/user/universidadunad" class="icon icon-youtube" target="_blank"></a>
+    <a href="https://informacion.unad.edu.co/correo" class="icon icon-mail4" target="_blank"></a>
+  </div>
+<section class="contenido wrapper">
+          
+       <center> <h1>INTRODUCCIÓN AL DISEÑO DE SITIOS WEB</h1></center>
+       <center> <iframe width="560" height="315" src="https://www.youtube.com/embed/3OjTOH-r2AA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+    	<p ALIGN="justify">El diseño es fundamental para el éxito de un sitio web. Se entiende por diseño la forma y el estilo de la página, es decir, no basta con crear una página mediante HTML y CSS, sino que la página debe resutar útil y atractiva para el usuario.</p>
+        <h2>Elementos para la elaboración de un sitio web</h2>
+    	<p ALIGN="justify">
+    		Entran dentro del diseño, aspectos tales como la maquetación, los colores, la distribución de elementos, el tamaño y forma de los mismos, y otros elementos del estilo y composición del sitio.
+    	</p>
+        <h3>Maquetación</h3>
+        <p ALIGN="justify">
+            La maquetación web es el proceso en el que el prototipo gráfico también denominado «layout»  (con los requisitos estructurales y estéticos definidos y aprobados en un análisis inicial) pasa a transformase en código html, css y js (estándares web) para que los navegadores puedan interpretarlo correctamente.
+        </p>
+        <h4>Cómo debemos planificar el proceso de maquetación web</h4>
+        <p ALIGN="justify">
+             A la hora de plantear una maquetación web debemos fijar unas zonas de trabajo que soporten la estructura de contenidos de nuestro sitio web y generar los recursos necesarios que faciliten la futura carga de contenidos. Un error muy frecuente es plantear una maquetación estática sin pensar en las necesidades reales de la estructura de contenido. En estos casos, al introducir más o menos elementos de los inicialmente planteados se produce una desmaquetación del documento que deteriora su representación.
+         </p>
+        <h3>El color</h3>
+    	<p ALIGN="justify">
+    		El color es uno de los elementos más poderosos de que disponemos a la hora de comunicar emociones en un sitio web. La mayoría de estas emociones son percibidas de un modo sutil e inconsciente.
+    		Al componer nuestros diseños, hemos de conocer cuáles son los efectos psicológicos que producen y cómo debemos elegir y combinar nuestra gama para que esa comunicación emocional resulte positiva.
+
+    	</p>
+    	<p ALIGN="justify">
+    		    		El color es subjetivo: cada persona, dependiendo de sus rasgos culturales o sociales, su estado de ánimo u otras circunstancias personales, lo va a interpretar de manera distinta. De hecho, el pigmento ni siquiera es una propiedad intrínseca de un objeto. Desde este punto de vista (nunca mejor dicho), el color no existe y es sólo la forma que nuestra retina (y cerebro) tiene de percibir las cosas, dependiendo de la longitud de onda de la luz reflejada. 
+    	</p>
+    	<p ALIGN="justify">
+    				El color, en su más amplia acepción, tiene tres dimensiones básicas:
+
+    	</p>
+    	Tono: se trata de la propiedad que hace distintos a los colores entre sí. Los primarios son el amarillo, el rojo y el azul; siendo el verde, naranja y violeta los secundarios.
+
+    		<p ALIGN="justify">
+    			Saturación: es el grado de pureza de un color con respecto al gris. Por ejemplo, tus pantalones vaqueros tienen un azul menos saturado después de unos cuantos lavados.
+    	</p>
+    		<p> ALIGN="justify"
+
+Luminosidad: indica cuan brillante u oscuro es un color.
+    	</p>
+        <h3>Distribución de Contenidos en el Diseño Web</h3>
+        <p>
+            Cuando hablamos de distribución de contenidos dentro del diseño web, nos referimos a la forma de organizar los elementos que componen nuestro sitio web, puede tratarse de el texto empleado en la página web, el cual debe tener cierta estructura  y coherencia;  o de cualquier otro elemento que contenga información relevante para el usuario.
+        </p>
+        <p ALIGN="justify">
+            Para mejorar la usabilidad de nuestro sitio, debemos definir un esquema de organización, funcionamiento y navegación del sitio, y  esto no se refiere a algo relacionado con el aspecto gráfico del sitio o la estética del mismo, si no del concepto, su arquitectura. Debemos tomar en cuenta la topoligía del sitio , los elementos de multimedia usados y varios aspectos más.
+        </p>
+        <br>
+        <h2>Referencias</h2>
+        <br>
+  <p ALIGN="justify">
+    -Aprende web, Anyelguti, recopilado de https://aprende-web.net/comple/diseno/diseno1.php
+     </p>
+       <p ALIGN="justify">
+        -El color en la web, Juan José Palacios(2012), recopilado de https://desarrolloweb.com/articulos/color-web.html
+     </p>
+
+    </section>
+	</body>
+</html>
